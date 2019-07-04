@@ -1,0 +1,960 @@
+[{
+        "nombre": "aagudeto",
+        "edad": 43,
+        "matematicas": 1,
+        "ingles": 2,
+        "programacion": 1
+    },
+    {
+        "nombre": "aalmanza",
+        "edad": 55,
+        "matematicas": 4,
+        "ingles": 1,
+        "programacion": 3
+    },
+    {
+        "nombre": "aalmsant",
+        "edad": 52,
+        "matematicas": 1,
+        "ingles": 3,
+        "programacion": 5
+    },
+    {
+        "nombre": "aalvaalv",
+        "edad": 54,
+        "matematicas": 1,
+        "ingles": 2,
+        "programacion": 2
+    },
+    {
+        "nombre": "aarango",
+        "edad": 36,
+        "matematicas": 5,
+        "ingles": 3,
+        "programacion": 5
+    },
+    {
+        "nombre": "abacabla",
+        "edad": 54,
+        "matematicas": 2,
+        "ingles": 3,
+        "programacion": 1
+    },
+    {
+        "nombre": "aberduce",
+        "edad": 45,
+        "matematicas": 4,
+        "ingles": 4,
+        "programacion": 2
+    },
+    {
+        "nombre": "acardeca",
+        "edad": 55,
+        "matematicas": 2,
+        "ingles": 4,
+        "programacion": 2
+    },
+    {
+        "nombre": "acastpal",
+        "edad": 38,
+        "matematicas": 4,
+        "ingles": 4,
+        "programacion": 4
+    },
+    {
+        "nombre": "acuestag",
+        "edad": 32,
+        "matematicas": 3,
+        "ingles": 5,
+        "programacion": 2
+    },
+    {
+        "nombre": "adiacast",
+        "edad": 52,
+        "matematicas": 3,
+        "ingles": 1,
+        "programacion": 4
+    },
+    {
+        "nombre": "ajimenee",
+        "edad": 38,
+        "matematicas": 1,
+        "ingles": 3,
+        "programacion": 2
+    },
+    {
+        "nombre": "aospiacu",
+        "edad": 39,
+        "matematicas": 1,
+        "ingles": 5,
+        "programacion": 5
+    },
+    {
+        "nombre": "aramigut",
+        "edad": 54,
+        "matematicas": 4,
+        "ingles": 3,
+        "programacion": 4
+    },
+    {
+        "nombre": "aramirfr",
+        "edad": 22,
+        "matematicas": 1,
+        "ingles": 3,
+        "programacion": 3
+    },
+    {
+        "nombre": "arojzulu",
+        "edad": 42,
+        "matematicas": 3,
+        "ingles": 2,
+        "programacion": 1
+    },
+    {
+        "nombre": "asuarezv",
+        "edad": 58,
+        "matematicas": 2,
+        "ingles": 5,
+        "programacion": 2
+    },
+    {
+        "nombre": "atorresr",
+        "edad": 36,
+        "matematicas": 1,
+        "ingles": 4,
+        "programacion": 2
+    },
+    {
+        "nombre": "avillava",
+        "edad": 50,
+        "matematicas": 5,
+        "ingles": 5,
+        "programacion": 1
+    },
+    {
+        "nombre": "bbarrb",
+        "edad": 42,
+        "matematicas": 4,
+        "ingles": 2,
+        "programacion": 3
+    },
+    {
+        "nombre": "bmanrisa",
+        "edad": 18,
+        "matematicas": 4,
+        "ingles": 4,
+        "programacion": 5
+    },
+    {
+        "nombre": "bsilvavi",
+        "edad": 33,
+        "matematicas": 1,
+        "ingles": 5,
+        "programacion": 3
+    },
+    {
+        "nombre": "bvargasr",
+        "edad": 24,
+        "matematicas": 4,
+        "ingles": 2,
+        "programacion": 1
+    },
+    {
+        "nombre": "cagudepr",
+        "edad": 21,
+        "matematicas": 3,
+        "ingles": 1,
+        "programacion": 4
+    },
+    {
+        "nombre": "cbetagar",
+        "edad": 52,
+        "matematicas": 1,
+        "ingles": 5,
+        "programacion": 5
+    },
+    {
+        "nombre": "ccorzoro",
+        "edad": 54,
+        "matematicas": 5,
+        "ingles": 4,
+        "programacion": 4
+    },
+    {
+        "nombre": "cmoraba",
+        "edad": 29,
+        "matematicas": 4,
+        "ingles": 4,
+        "programacion": 5
+    },
+    {
+        "nombre": "cmoraleh",
+        "edad": 36,
+        "matematicas": 3,
+        "ingles": 3,
+        "programacion": 2
+    },
+    {
+        "nombre": "csanchem",
+        "edad": 31,
+        "matematicas": 1,
+        "ingles": 2,
+        "programacion": 2
+    },
+    {
+        "nombre": "ctoledom",
+        "edad": 43,
+        "matematicas": 4,
+        "ingles": 2,
+        "programacion": 5
+    },
+    {
+        "nombre": "datehorn",
+        "edad": 56,
+        "matematicas": 2,
+        "ingles": 3,
+        "programacion": 5
+    },
+    {
+        "nombre": "dcallelo",
+        "edad": 37,
+        "matematicas": 4,
+        "ingles": 5,
+        "programacion": 3
+    },
+    {
+        "nombre": "dcontf",
+        "edad": 44,
+        "matematicas": 2,
+        "ingles": 2,
+        "programacion": 5
+    },
+    {
+        "nombre": "dechevar",
+        "edad": 48,
+        "matematicas": 4,
+        "ingles": 4,
+        "programacion": 1
+    },
+    {
+        "nombre": "dhozrodr",
+        "edad": 30,
+        "matematicas": 1,
+        "ingles": 3,
+        "programacion": 5
+    },
+    {
+        "nombre": "dmosquel",
+        "edad": 39,
+        "matematicas": 3,
+        "ingles": 5,
+        "programacion": 4
+    },
+    {
+        "nombre": "dmunoari",
+        "edad": 37,
+        "matematicas": 4,
+        "ingles": 3,
+        "programacion": 4
+    },
+    {
+        "nombre": "dnarvaea",
+        "edad": 18,
+        "matematicas": 4,
+        "ingles": 5,
+        "programacion": 1
+    },
+    {
+        "nombre": "dtabordh",
+        "edad": 23,
+        "matematicas": 3,
+        "ingles": 5,
+        "programacion": 5
+    },
+    {
+        "nombre": "dvaleval",
+        "edad": 48,
+        "matematicas": 1,
+        "ingles": 5,
+        "programacion": 5
+    },
+    {
+        "nombre": "dvegazul",
+        "edad": 36,
+        "matematicas": 5,
+        "ingles": 5,
+        "programacion": 2
+    },
+    {
+        "nombre": "ebetancs",
+        "edad": 59,
+        "matematicas": 5,
+        "ingles": 4,
+        "programacion": 5
+    },
+    {
+        "nombre": "ecarvajv",
+        "edad": 19,
+        "matematicas": 2,
+        "ingles": 3,
+        "programacion": 1
+    },
+    {
+        "nombre": "ecastane",
+        "edad": 40,
+        "matematicas": 4,
+        "ingles": 4,
+        "programacion": 2
+    },
+    {
+        "nombre": "ecastrir",
+        "edad": 38,
+        "matematicas": 4,
+        "ingles": 4,
+        "programacion": 2
+    },
+    {
+        "nombre": "econtm",
+        "edad": 47,
+        "matematicas": 4,
+        "ingles": 2,
+        "programacion": 2
+    },
+    {
+        "nombre": "eespinog",
+        "edad": 18,
+        "matematicas": 1,
+        "ingles": 2,
+        "programacion": 4
+    },
+    {
+        "nombre": "egomevia",
+        "edad": 46,
+        "matematicas": 4,
+        "ingles": 5,
+        "programacion": 5
+    },
+    {
+        "nombre": "elujanac",
+        "edad": 23,
+        "matematicas": 1,
+        "ingles": 5,
+        "programacion": 1
+    },
+    {
+        "nombre": "emmanclo",
+        "edad": 43,
+        "matematicas": 5,
+        "ingles": 2,
+        "programacion": 1
+    },
+    {
+        "nombre": "epadillb",
+        "edad": 47,
+        "matematicas": 1,
+        "ingles": 1,
+        "programacion": 3
+    },
+    {
+        "nombre": "erestrev",
+        "edad": 49,
+        "matematicas": 4,
+        "ingles": 1,
+        "programacion": 5
+    },
+    {
+        "nombre": "fescobch",
+        "edad": 49,
+        "matematicas": 4,
+        "ingles": 4,
+        "programacion": 1
+    },
+    {
+        "nombre": "fhencace",
+        "edad": 55,
+        "matematicas": 3,
+        "ingles": 2,
+        "programacion": 1
+    },
+    {
+        "nombre": "gbenitem",
+        "edad": 57,
+        "matematicas": 5,
+        "ingles": 2,
+        "programacion": 5
+    },
+    {
+        "nombre": "gfernr",
+        "edad": 21,
+        "matematicas": 5,
+        "ingles": 5,
+        "programacion": 5
+    },
+    {
+        "nombre": "ggonzalr",
+        "edad": 46,
+        "matematicas": 3,
+        "ingles": 5,
+        "programacion": 2
+    },
+    {
+        "nombre": "hcontrec",
+        "edad": 58,
+        "matematicas": 4,
+        "ingles": 1,
+        "programacion": 5
+    },
+    {
+        "nombre": "hpadilln",
+        "edad": 44,
+        "matematicas": 2,
+        "ingles": 1,
+        "programacion": 1
+    },
+    {
+        "nombre": "iparejoc",
+        "edad": 18,
+        "matematicas": 1,
+        "ingles": 2,
+        "programacion": 5
+    },
+    {
+        "nombre": "jadriasi",
+        "edad": 53,
+        "matematicas": 2,
+        "ingles": 5,
+        "programacion": 4
+    },
+    {
+        "nombre": "jalvmune",
+        "edad": 55,
+        "matematicas": 2,
+        "ingles": 3,
+        "programacion": 5
+    },
+    {
+        "nombre": "jartetm",
+        "edad": 45,
+        "matematicas": 2,
+        "ingles": 5,
+        "programacion": 3
+    },
+    {
+        "nombre": "jbermal",
+        "edad": 52,
+        "matematicas": 5,
+        "ingles": 1,
+        "programacion": 4
+    },
+    {
+        "nombre": "jcargu",
+        "edad": 30,
+        "matematicas": 1,
+        "ingles": 1,
+        "programacion": 2
+    },
+    {
+        "nombre": "jechavac",
+        "edad": 43,
+        "matematicas": 2,
+        "ingles": 1,
+        "programacion": 2
+    },
+    {
+        "nombre": "jechrios",
+        "edad": 47,
+        "matematicas": 1,
+        "ingles": 1,
+        "programacion": 2
+    },
+    {
+        "nombre": "jgiralbe",
+        "edad": 55,
+        "matematicas": 4,
+        "ingles": 1,
+        "programacion": 1
+    },
+    {
+        "nombre": "jhincapi",
+        "edad": 51,
+        "matematicas": 1,
+        "ingles": 3,
+        "programacion": 4
+    },
+    {
+        "nombre": "jmadgalv",
+        "edad": 55,
+        "matematicas": 1,
+        "ingles": 1,
+        "programacion": 4
+    },
+    {
+        "nombre": "jmartceb",
+        "edad": 40,
+        "matematicas": 1,
+        "ingles": 2,
+        "programacion": 3
+    },
+    {
+        "nombre": "jmoliloz",
+        "edad": 32,
+        "matematicas": 2,
+        "ingles": 2,
+        "programacion": 2
+    },
+    {
+        "nombre": "jnunezme",
+        "edad": 57,
+        "matematicas": 5,
+        "ingles": 5,
+        "programacion": 4
+    },
+    {
+        "nombre": "joviedor",
+        "edad": 35,
+        "matematicas": 1,
+        "ingles": 2,
+        "programacion": 3
+    },
+    {
+        "nombre": "jparrap",
+        "edad": 45,
+        "matematicas": 5,
+        "ingles": 3,
+        "programacion": 1
+    },
+    {
+        "nombre": "jpelufoo",
+        "edad": 38,
+        "matematicas": 5,
+        "ingles": 3,
+        "programacion": 1
+    },
+    {
+        "nombre": "jraade",
+        "edad": 59,
+        "matematicas": 2,
+        "ingles": 5,
+        "programacion": 3
+    },
+    {
+        "nombre": "jrodries",
+        "edad": 41,
+        "matematicas": 5,
+        "ingles": 4,
+        "programacion": 2
+    },
+    {
+        "nombre": "jroldanr",
+        "edad": 37,
+        "matematicas": 2,
+        "ingles": 2,
+        "programacion": 1
+    },
+    {
+        "nombre": "jsanchgu",
+        "edad": 43,
+        "matematicas": 4,
+        "ingles": 5,
+        "programacion": 4
+    },
+    {
+        "nombre": "jvilladr",
+        "edad": 49,
+        "matematicas": 3,
+        "ingles": 1,
+        "programacion": 3
+    },
+    {
+        "nombre": "kcarvaja",
+        "edad": 35,
+        "matematicas": 4,
+        "ingles": 1,
+        "programacion": 1
+    },
+    {
+        "nombre": "kcarvajg",
+        "edad": 27,
+        "matematicas": 4,
+        "ingles": 2,
+        "programacion": 1
+    },
+    {
+        "nombre": "kdiaztru",
+        "edad": 60,
+        "matematicas": 4,
+        "ingles": 2,
+        "programacion": 3
+    },
+    {
+        "nombre": "kposazap",
+        "edad": 36,
+        "matematicas": 5,
+        "ingles": 4,
+        "programacion": 1
+    },
+    {
+        "nombre": "kzabacon",
+        "edad": 49,
+        "matematicas": 3,
+        "ingles": 4,
+        "programacion": 5
+    },
+    {
+        "nombre": "lacosman",
+        "edad": 27,
+        "matematicas": 4,
+        "ingles": 4,
+        "programacion": 4
+    },
+    {
+        "nombre": "lareimor",
+        "edad": 26,
+        "matematicas": 1,
+        "ingles": 1,
+        "programacion": 3
+    },
+    {
+        "nombre": "larenasr",
+        "edad": 37,
+        "matematicas": 4,
+        "ingles": 1,
+        "programacion": 1
+    },
+    {
+        "nombre": "lcallre",
+        "edad": 60,
+        "matematicas": 1,
+        "ingles": 2,
+        "programacion": 2
+    },
+    {
+        "nombre": "ldelarm",
+        "edad": 46,
+        "matematicas": 1,
+        "ingles": 3,
+        "programacion": 1
+    },
+    {
+        "nombre": "lgaleans",
+        "edad": 39,
+        "matematicas": 3,
+        "ingles": 3,
+        "programacion": 3
+    },
+    {
+        "nombre": "lgiralra",
+        "edad": 18,
+        "matematicas": 4,
+        "ingles": 1,
+        "programacion": 4
+    },
+    {
+        "nombre": "lguisaor",
+        "edad": 35,
+        "matematicas": 4,
+        "ingles": 1,
+        "programacion": 5
+    },
+    {
+        "nombre": "lmartiva",
+        "edad": 20,
+        "matematicas": 3,
+        "ingles": 1,
+        "programacion": 4
+    },
+    {
+        "nombre": "lmieguar",
+        "edad": 24,
+        "matematicas": 1,
+        "ingles": 5,
+        "programacion": 1
+    },
+    {
+        "nombre": "lmoracas",
+        "edad": 43,
+        "matematicas": 4,
+        "ingles": 4,
+        "programacion": 5
+    },
+    {
+        "nombre": "lpalacio",
+        "edad": 32,
+        "matematicas": 1,
+        "ingles": 5,
+        "programacion": 2
+    },
+    {
+        "nombre": "lsanchei",
+        "edad": 24,
+        "matematicas": 1,
+        "ingles": 4,
+        "programacion": 2
+    },
+    {
+        "nombre": "luijimro",
+        "edad": 59,
+        "matematicas": 4,
+        "ingles": 2,
+        "programacion": 4
+    },
+    {
+        "nombre": "marroyga",
+        "edad": 22,
+        "matematicas": 5,
+        "ingles": 1,
+        "programacion": 4
+    },
+    {
+        "nombre": "mcacar",
+        "edad": 52,
+        "matematicas": 4,
+        "ingles": 4,
+        "programacion": 1
+    },
+    {
+        "nombre": "mcastear",
+        "edad": 21,
+        "matematicas": 1,
+        "ingles": 3,
+        "programacion": 3
+    },
+    {
+        "nombre": "mjaramga",
+        "edad": 36,
+        "matematicas": 5,
+        "ingles": 3,
+        "programacion": 4
+    },
+    {
+        "nombre": "mmadrigo",
+        "edad": 59,
+        "matematicas": 3,
+        "ingles": 2,
+        "programacion": 2
+    },
+    {
+        "nombre": "mperecha",
+        "edad": 29,
+        "matematicas": 5,
+        "ingles": 5,
+        "programacion": 3
+    },
+    {
+        "nombre": "mrovirad",
+        "edad": 56,
+        "matematicas": 4,
+        "ingles": 1,
+        "programacion": 2
+    },
+    {
+        "nombre": "mruizpal",
+        "edad": 60,
+        "matematicas": 4,
+        "ingles": 4,
+        "programacion": 5
+    },
+    {
+        "nombre": "mtobberr",
+        "edad": 21,
+        "matematicas": 1,
+        "ingles": 5,
+        "programacion": 1
+    },
+    {
+        "nombre": "mvargmen",
+        "edad": 54,
+        "matematicas": 1,
+        "ingles": 3,
+        "programacion": 1
+    },
+    {
+        "nombre": "mvelegil",
+        "edad": 46,
+        "matematicas": 3,
+        "ingles": 4,
+        "programacion": 1
+    },
+    {
+        "nombre": "npanesso",
+        "edad": 22,
+        "matematicas": 4,
+        "ingles": 4,
+        "programacion": 5
+    },
+    {
+        "nombre": "nvargasf",
+        "edad": 24,
+        "matematicas": 3,
+        "ingles": 5,
+        "programacion": 2
+    },
+    {
+        "nombre": "pquinaya",
+        "edad": 60,
+        "matematicas": 4,
+        "ingles": 5,
+        "programacion": 1
+    },
+    {
+        "nombre": "rcalleve",
+        "edad": 40,
+        "matematicas": 1,
+        "ingles": 3,
+        "programacion": 3
+    },
+    {
+        "nombre": "rcondc",
+        "edad": 22,
+        "matematicas": 1,
+        "ingles": 1,
+        "programacion": 4
+    },
+    {
+        "nombre": "rfariam",
+        "edad": 55,
+        "matematicas": 2,
+        "ingles": 4,
+        "programacion": 1
+    },
+    {
+        "nombre": "rrodrigc",
+        "edad": 23,
+        "matematicas": 5,
+        "ingles": 1,
+        "programacion": 2
+    },
+    {
+        "nombre": "sbarvoal",
+        "edad": 50,
+        "matematicas": 4,
+        "ingles": 2,
+        "programacion": 2
+    },
+    {
+        "nombre": "sbetines",
+        "edad": 21,
+        "matematicas": 3,
+        "ingles": 1,
+        "programacion": 4
+    },
+    {
+        "nombre": "scastilm",
+        "edad": 47,
+        "matematicas": 2,
+        "ingles": 1,
+        "programacion": 3
+    },
+    {
+        "nombre": "sgaitanc",
+        "edad": 22,
+        "matematicas": 5,
+        "ingles": 4,
+        "programacion": 3
+    },
+    {
+        "nombre": "smendoac",
+        "edad": 29,
+        "matematicas": 4,
+        "ingles": 4,
+        "programacion": 1
+    },
+    {
+        "nombre": "smonpere",
+        "edad": 49,
+        "matematicas": 3,
+        "ingles": 1,
+        "programacion": 3
+    },
+    {
+        "nombre": "srojasre",
+        "edad": 22,
+        "matematicas": 3,
+        "ingles": 5,
+        "programacion": 4
+    },
+    {
+        "nombre": "tcaldear",
+        "edad": 44,
+        "matematicas": 5,
+        "ingles": 2,
+        "programacion": 3
+    },
+    {
+        "nombre": "vdurango",
+        "edad": 49,
+        "matematicas": 2,
+        "ingles": 4,
+        "programacion": 5
+    },
+    {
+        "nombre": "vrodrise",
+        "edad": 32,
+        "matematicas": 5,
+        "ingles": 4,
+        "programacion": 2
+    },
+    {
+        "nombre": "wpatinoc",
+        "edad": 29,
+        "matematicas": 4,
+        "ingles": 4,
+        "programacion": 1
+    },
+    {
+        "nombre": "yblandom",
+        "edad": 60,
+        "matematicas": 3,
+        "ingles": 2,
+        "programacion": 3
+    },
+    {
+        "nombre": "ycarpia",
+        "edad": 35,
+        "matematicas": 1,
+        "ingles": 2,
+        "programacion": 3
+    },
+    {
+        "nombre": "ygarcibu",
+        "edad": 53,
+        "matematicas": 2,
+        "ingles": 4,
+        "programacion": 2
+    },
+    {
+        "nombre": "ygilme",
+        "edad": 51,
+        "matematicas": 3,
+        "ingles": 4,
+        "programacion": 3
+    },
+    {
+        "nombre": "ylargbet",
+        "edad": 46,
+        "matematicas": 2,
+        "ingles": 5,
+        "programacion": 3
+    },
+    {
+        "nombre": "ypadilsa",
+        "edad": 20,
+        "matematicas": 4,
+        "ingles": 5,
+        "programacion": 2
+    },
+    {
+        "nombre": "ysormart",
+        "edad": 41,
+        "matematicas": 5,
+        "ingles": 5,
+        "programacion": 5
+    },
+    {
+        "nombre": "yvalerio",
+        "edad": 28,
+        "matematicas": 4,
+        "ingles": 4,
+        "programacion": 2
+    }
+]
