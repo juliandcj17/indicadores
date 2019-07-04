@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const path = require('path');
 const hbs = require('hbs');
-const morgan = ('morgan')
+const morgan = require('morgan');
 const bodyParser = require('body-parser');
 require('./helper');
 listaasesores = require('./datos.json');

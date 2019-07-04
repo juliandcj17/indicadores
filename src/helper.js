@@ -4,7 +4,7 @@ hbs.registerHelper('listar', () => {
     listaasesores = require('./datos.json');
     let texto = `<div class="container">\
     <div class="row ">\
-    <table class="table table-hover">\
+    <table id="table" class="table table-hover">\
 <thead>\
   <tr>\
     <th scope="col sm-5 "center>Nombre</th>\
@@ -61,7 +61,6 @@ hbs.registerHelper('listar', () => {
 
 
 
-    let page = `hi `
     return texto;
 })
 
